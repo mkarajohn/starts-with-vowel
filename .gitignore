@@ -45,3 +45,37 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# =========================
+# Custom rules
+# =========================
+
+# IDEs
+.project
+.pydevproject
+.idea/
+.vscode
+.settings
+.DS_Store
+
+# Python & Django compiled byte code
+*.pyc
+
+# SQLite database
+*.sqlite
+
+# Node modules
+node_modules/
+npm-debug.log
+
+.cache
+
+# static validation files. Currently no sass-lint is present
+.sass-lint.yml
+
+# not include scripts because they come from external module
+scripts/
+
+# Logs
+logs
+*.log
