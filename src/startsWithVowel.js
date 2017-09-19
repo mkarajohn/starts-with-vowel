@@ -1,4 +1,4 @@
-const en = ["a", "e", "i", "o", "u", "y", "x-"];
+const en = ['a', 'e', 'i', 'o', 'u', 'y', 'x-'];
 
 function startsWithVowel(word, vowels = en) {
   const normalisedWord = word.toLowerCase();
