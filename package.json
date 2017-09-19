@@ -1,0 +1,25 @@
+{
+  "name": "starts-with-vowel",
+  "version": "0.0.1",
+  "description": "A little utility that determines whether a word starts with a vowel or not. Useful for when you have to dynamically render text after indefinite articles",
+  "main": "src/index.js",
+  "repository": "https://github.com/mkarajohn/starts-with-vowel",
+  "author": "Dimitris Karagiannis <mitch.karajohn@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "starts with vowel",
+    "starts-with-vowel",
+    "starts",
+    "with",
+    "vowel",
+    "utility",
+    "string",
+    "js"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.7.1",
+    "eslint-config-airbnb-base": "^12.0.0",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}
