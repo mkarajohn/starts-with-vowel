@@ -1,8 +1,7 @@
 {
   "name": "starts-with-vowel",
-  "version": "0.0.3",
-  "description":
-    "A little utility that determines whether a word starts with a vowel or not. Useful for when you have to dynamically render text after indefinite articles",
+  "version": "0.0.4",
+  "description": "A little utility that determines whether a word starts with a vowel or not. Useful for when you have to dynamically render text after indefinite articles",
   "main": "dist/startsWithVowel.min.js",
   "repository": "https://github.com/mkarajohn/starts-with-vowel",
   "author": "Dimitris Karagiannis <mitch.karajohn@gmail.com>",
